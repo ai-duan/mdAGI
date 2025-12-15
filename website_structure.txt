@@ -1,0 +1,7 @@
+website
+  ├── index.html
+  ├── style.css
+  ├── script.js
+  └── assets/
+      ├── images/
+      └── fonts/

@@ -1,0 +1,8 @@
+# Genesis Agent Dependencies
+
+# Web UI
+gradio>=4.0.0
+
+# Testing
+pytest>=7.0.0
+hypothesis>=6.0.0
